@@ -3,7 +3,7 @@
 }
 
 body{
-    background-color: antiquewhite;
+    background-color: #ff6600;
 }
 
 .container {
@@ -16,7 +16,7 @@ body{
     font-size: 1.5rem;
     border-radius: 20px;
     font-weight: bold;
-    background-color: rgb(198, 164, 119);
+    background-color: #a94400;
 }
 
 p {
